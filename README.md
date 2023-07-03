@@ -6,7 +6,9 @@
 
 # USED DATA STRUCTURES:
    • ARRAYS
+   <br />
    • BINARY SEARCH TREE
+   <br />
    • HASHING
 
 
