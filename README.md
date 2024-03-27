@@ -31,7 +31,7 @@ The BANK MANAGEMENT SYSTEM is a software system written in C language. It makes 
 - Data Structures: Utilized data structures like Binary Search Tree, Hashing, and Array for efficient data management.
 
 ## Contact:
-If you have any questions, suggestions, or feedback, please feel free to contact Smit Rathod at rathodsmit2003@gmail.com 
+If you have any questions, suggestions, or feedback, please feel free to contact Smit Rathod at rathodsmit2003@gmail.com.
 
 
 
