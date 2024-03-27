@@ -1,18 +1,22 @@
 # BANK-MANAGEMENT-SYSTEM-USING-BST
 
-# USED LANGUAGE:
-   • C
+
+The BANK MANAGEMENT SYSTEM is a software system written in C language. It makes use of C language along with its built-in libraries, and integrates data structures such as Binary Search Tree, Hashing, and Array to ensure effective and secure banking operations. Its main functionalities include user authentication through login and registration processes, facilitating deposit and withdrawal of funds, enabling transfers between accounts, allowing users to view account details, and providing access to transaction history.
+
+## Features:
+-User Authentication: Implement secure login and registration procedures to verify the identity of users, ensuring that only authorized individuals can access their accounts.
+
+-Account Management: Carry out fundamental banking tasks, such as depositing and withdrawing funds, to facilitate efficient financial transactions.
+
+-Fund Transfer: Enable the seamless transfer of funds between accounts, facilitating easy transactions between acquaintances.
+
+-Account Details: Provide access to comprehensive account information, including account balances and customer details.
+
+-Transaction History: Allow users to retrieve a detailed record of all account transactions, enabling them to monitor their financial activities effectively.
 
 
-# USED DATA STRUCTURES:
-   • ARRAYS
-   <br />
-   • BINARY SEARCH TREE
-   <br />
-   • HASHING
 
 
-# BRIEF INTRODUCTION ABOUT THE PROJECT:
 
-I made a bank management system using binary search Tree and Array. I added many functionalities like account login using username and password, password changing, 
-account searching, account history display, transferring money between two accounts,money withdrawal, and many other banks related real-life scenarios.I used the concept of c language like hashing, binary search tree, array to complete this project.
+
+
